@@ -1,0 +1,23 @@
+{
+  "name": "saturn91-example-npm-react-package-template",
+  "version": "1.0.0",
+  "description": "\"# My Package Name by Saturn91\"",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saturn91/saturn91-example-npm-react-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saturn91/saturn91-example-npm-react-package/issues"
+  },
+  "homepage": "https://github.com/Saturn91/saturn91-example-npm-react-package#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
